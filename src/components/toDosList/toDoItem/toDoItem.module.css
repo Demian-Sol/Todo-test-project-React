@@ -1,0 +1,43 @@
+.Expired {
+  background-color: salmon;
+}
+
+.Completed {
+  background-color: green;
+  color: white;
+}
+
+.TodoCard {
+  border: 1px solid #ccc;
+  margin: 8px;
+  box-shadow: 0px 2px 3px #eee;
+  width: 100%;
+}
+
+.Name {
+box-sizing: border-box;
+word-wrap: break-word;
+
+}
+.Priority {
+box-sizing: border-box;
+
+}
+.Description {
+box-sizing: content-box;
+word-wrap: break-word;
+
+}
+.ExpiresAt {
+box-sizing: border-box;
+
+}
+.CompletedAt {
+box-sizing: border-box;
+padding: 0 10px;
+
+}
+.Controls {
+box-sizing: border-box;
+
+}
