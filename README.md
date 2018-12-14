@@ -1,3 +1,8 @@
+Clone, run "npm install", then "npm start", the usual.
+
+Full CRUD realisation, plus todos are saved upon page reload.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
